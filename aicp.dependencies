@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "AICP/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":      "lp5.0"
+  },
+  {
+    "repository": "AICP/device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch":      "lp5.0"
+  },
+  {
+    "repository": "AICP/device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "branch":      "lp5.0"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_samsung_jf",
+    "target_path": "kernel/samsung/jf",
+    "branch":      "cm-12.0"
+  }
+]
