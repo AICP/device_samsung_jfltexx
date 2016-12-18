@@ -30,6 +30,11 @@
     "branch":      "cm-14.1"
   },
   {
+    "repository" : "CyanogenMod/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch"     : "cm-14.1"
+  },
+  {
     "repository":  "AICP/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "branch":      "n7.1"
