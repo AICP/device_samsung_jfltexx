@@ -10,27 +10,27 @@
     "branch":      "n7.1"
   },
   {
-    "repository": "CyanogenMod/android_device_qcom_common",
+    "repository": "LineageOS/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "branch":      "cm-14.1"
   },
   {
-    "repository":  "CyanogenMod/android_hardware_samsung",
+    "repository":  "LineageOS/android_hardware_samsung",
     "target_path": "hardware/samsung",
     "branch":      "cm-14.1"
   },
   {
-    "repository":  "CyanogenMod/android_kernel_samsung_jf",
+    "repository":  "LineageOS/android_kernel_samsung_jf",
     "target_path": "kernel/samsung/jf",
     "branch":      "cm-14.1"
   },
   {
-    "repository": "CyanogenMod/android_external_stlport",
+    "repository": "LineageOS/android_external_stlport",
     "target_path": "external/stlport",
     "branch":      "cm-14.1"
   },
   {
-    "repository" : "CyanogenMod/android_packages_resources_devicesettings",
+    "repository" : "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch"     : "cm-14.1"
   },
